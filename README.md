@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Tashi, and I am a PhD student at the School of the Environment at the University of Queensland in Australia. I am currently learning to use GitHub for my PhD and other projects at the Ecological Cascades Lab.
 
 <!--
 **tashibhutan/tashibhutan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
