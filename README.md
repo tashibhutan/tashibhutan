@@ -1,7 +1,7 @@
 Hi there👋 
 ==============================
 
-My name is Tashi Dhendup, and I'm pursuing my PhD at the School of the Environment, University of Queensland, in Australia. At UQ, I am part of the Ecological Cascades Lab.
+My name is Tashi Dhendup, and I'm pursuing a PhD at the School of the Environment, University of Queensland, in Australia. At UQ, I am part of the Ecological Cascades Lab.
 
 I come from Bhutan, where I spent over a decade working with the Department of Forests and Park Services. I've developed a strong commitment to the research and conservation of threatened species. I have extensive experience using tools like camera traps and conservation genetics.
 
